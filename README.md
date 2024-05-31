@@ -1,4 +1,4 @@
-# Assessment3 Token
+# Assessment3 Types Of Function
 
 `Assessment3` is an ERC20-compliant token contract with custom events for transfer, minting, and burning operations. The token is named "Eduard" with the symbol "Ward."
 
